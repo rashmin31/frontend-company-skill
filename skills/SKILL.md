@@ -1,8 +1,3 @@
----
-name: frontend-company
-description: Use this skill for React, Vite, TypeScript frontend development that must follow a strict organisation folder structure, multi-client layout rules, client-specific theming, access management, Redux/service placement, and UI library delegation to AntD, MUI, or Shadcn official docs/skills.
----
-
 # Frontend Company Skill
 
 ## Purpose
